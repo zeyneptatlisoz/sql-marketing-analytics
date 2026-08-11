@@ -1,2 +1,2 @@
 # sql-marketing-analytics
-SQL project for marketing campaign performance analysis using SQL queries and business metrics.
+Marketing campaign performance analysis using SQL, Facebook Ads and Google Ads data.
