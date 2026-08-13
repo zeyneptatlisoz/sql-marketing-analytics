@@ -46,17 +46,23 @@ The analysis uses the following tables:
 
 ### 1. Campaign Performance Overview
 
+![Campaign Performance](sql_images/Analysis%201.png)
+
 - Combined Facebook Ads and Google Ads into one dataset.
 - Aggregated advertising metrics by date, campaign, and ad set.
 - Calculated total spend, impressions, reach, clicks, leads, and conversion value.
 
 ### 2. Top Campaign by ROMI
 
+![Top Campaign by ROMI](sql_images/Analysis%202.png)
+
 - Calculated ROMI for each campaign.
 - Filtered campaigns with total spend greater than 500,000.
 - Identified the campaign with the highest marketing return.
 
 ### 3. Top Ad Set by ROMI
+
+![Top Ad Set by ROMI](sql_images/Analysis%203.png)
 
 - Focused on the highest-performing campaign.
 - Compared ad sets based on ROMI.
